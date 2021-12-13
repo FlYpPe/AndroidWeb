@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AplicacionWeb</string>
+
+    <string name="Nombre">Nombre</string>
+    <string name="Proveedor">IdProveedor</string>
+    <string name="Categoria">IdCategoria</string>
+    <string name="Cantidad">Cantidad</string>
+    <string name="Precio">Precio</string>
+    <string name="Unidades">Unidades</string>
+    <string name="Descontinuado">Descripcion</string>
+    <string name="Contrasena">Contrasena</string>
+    <string name="Usuario">Usuario</string>
+    <string-array name="planets_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="Desc">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
